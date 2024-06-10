@@ -1,7 +1,7 @@
 [
   {
     "title": "Sosio App",
-    "description": "stakeholder management application in the company",
+    "description": "The Stakeholder Management Application is designed to streamline stakeholder management processes within a company. Built using the Laravel framework, this application provides a robust and scalable solution for tracking and managing stakeholder interactions, ensuring effective communication and relationship management.",
     "demo": "https://sosioapps.co.id/",
     "github": "-",
     "type": "web",
