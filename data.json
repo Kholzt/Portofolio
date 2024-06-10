@@ -1,20 +1,31 @@
 [
   {
-    "title": "Todo List",
-    "description": "Simple Todo List project is a web application built using HTML, CSS, and JavaScript. It allows users to create a list of tasks they need to complete. Users can add new tasks, mark tasks as completed, and delete tasks.",
-    "demo": "https://muhammadnorkholit.github.io/Todo-list-Javascript/",
-    "github": "https://github.com/muhammadnorkholit/Todo-list-Javascript",
+    "title": "Sosio App",
+    "description": "stakeholder management application in the company",
+    "demo": "https://sosioapps.co.id/",
+    "github": "-",
     "type": "web",
-    "date": "9 Juni 2024",
-    "img": "assets/img/portfolio/todol-ist.png"
-  },
+    "date": "1 February 2024",
+    "img": "assets/img/portfolio/sosio.png"
+  }
+  ,
   {
     "title": "Kalender Javascript",
     "description": "Interactive calendar with month and year navigation, showcasing days of the month with indicators for Sunday to Saturday. Responsive design ensures accessibility across various devices.",
     "demo": "https://muhammadnorkholit.github.io/Kalender-Javascript/",
     "github": "https://github.com/muhammadnorkholit/Kalender-Javascript",
     "type": "web",
-    "date": "10 Juni 2024",
+    "date": "10 June 2024",
     "img": "assets/img/portfolio/kalender.png"
+  },
+  {
+    "title": "Todo List",
+    "description": "Simple Todo List project is a web application built using HTML, CSS, and JavaScript. It allows users to create a list of tasks they need to complete. Users can add new tasks, mark tasks as completed, and delete tasks.",
+    "demo": "https://muhammadnorkholit.github.io/Todo-list-Javascript/",
+    "github": "https://github.com/muhammadnorkholit/Todo-list-Javascript",
+    "type": "web",
+    "date": "9 June 2024",
+    "img": "assets/img/portfolio/todol-ist.png"
   }
+ 
 ]
